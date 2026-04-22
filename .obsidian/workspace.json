@@ -11,12 +11,14 @@
             "id": "e86b8f56a1267c8c",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Programming Abstractions in C++.pdf"
+                "file": "C++/状态位.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Programming Abstractions in C++"
+              "icon": "lucide-file",
+              "title": "状态位"
             }
           }
         ]
@@ -193,10 +195,11 @@
   },
   "active": "e86b8f56a1267c8c",
   "lastOpenFiles": [
+    "C++/操作符.md",
+    "Programming Abstractions in C++.pdf",
     "README.md",
     "C++/模板.md",
     "C++/模板函数.md",
-    "Programming Abstractions in C++.pdf",
     "C++/广度优先搜索算法.md",
     "C++/类.md",
     "C++/Associative  Container.md",
@@ -208,7 +211,6 @@
     "C++/Iterator.md",
     "C++/未命名.base",
     "C++/嵌套数据结构.md",
-    "C++/操作符.md",
     "C++/Sequence Container.md",
     "C++/const传参.md",
     "C++/CS106BL4.md",
@@ -220,7 +222,6 @@
     "C++/缓冲区.md",
     "C++/CS106BL6.md",
     "C++/遍历Map.md",
-    "111.md",
     "未命名",
     "C++",
     "附件/Pasted image 20260317205037.png",
