@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e7c5f5d0435e650c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8de88186bbb2cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e86b8f56a1267c8c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Programming Abstractions in C++.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Programming Abstractions in C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9322c0bc448bf2cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2011ebd6b6e55caf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f033eaed9c98bbf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "80b0fdd1ad07eaa7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f4c068fb3a280810",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dc080984d6e19efd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e587598460919e8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86586213cb602652",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "7bb6dde54171f6df",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "C++/Iterator.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Iterator 的出链列表"
+            }
+          },
+          {
+            "id": "22d316fe2cbdf464",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "1606c9f7db34c2c3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "d3795a86327f3a9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Programming Abstractions in C++.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Programming Abstractions in C++ 的大纲"
+            }
+          },
+          {
+            "id": "48e8b01e4c5dd37f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e86b8f56a1267c8c",
+  "lastOpenFiles": [
+    "README.md",
+    "C++/模板.md",
+    "C++/模板函数.md",
+    "Programming Abstractions in C++.pdf",
+    "C++/广度优先搜索算法.md",
+    "C++/类.md",
+    "C++/Associative  Container.md",
+    "C++/getline函数.md",
+    "C++/引用.md",
+    "C++/编程范式.md",
+    "C++/Container Adaptor.md",
+    "C++/状态位.md",
+    "C++/Iterator.md",
+    "C++/未命名.base",
+    "C++/嵌套数据结构.md",
+    "C++/操作符.md",
+    "C++/Sequence Container.md",
+    "C++/const传参.md",
+    "C++/CS106BL4.md",
+    "C++/Console Programs.md",
+    "欢迎.md",
+    "Unity L7-L10.md",
+    "创建链接.md",
+    "C++/Stream.md",
+    "C++/缓冲区.md",
+    "C++/CS106BL6.md",
+    "C++/遍历Map.md",
+    "111.md",
+    "未命名",
+    "C++",
+    "附件/Pasted image 20260317205037.png",
+    "未命名.canvas",
+    "未命名.base",
+    "test.base",
+    "附件/Pasted image 20260309222034.png",
+    "附件/Pasted image 20260309221817.png",
+    "附件/Pasted image 20260304155206.png",
+    "图片/Pasted image 20260208104123.png",
+    "图片/Pasted image 20260208104115.png",
+    "图片/DM_20260208131709_001.jpg",
+    "未命名 1.canvas",
+    "附件",
+    "1"
+  ]
+}
